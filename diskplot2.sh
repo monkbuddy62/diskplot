@@ -46,4 +46,4 @@ EOFMarker
 fi
 
 # Remove the temporary data file
-#rm -f ./disk_usage.dat
+rm -f ./disk_usage.dat
